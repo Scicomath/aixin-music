@@ -8,10 +8,10 @@
         <version>2.5.5</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.tencent</groupId>
-    <artifactId>springboot-wxcloudrun</artifactId>
-    <version>1.0</version>
-    <name>springboot-wxcloudrun</name>
+    <groupId>com.aixin</groupId>
+    <artifactId>aixin-music</artifactId>
+    <version>0.01</version>
+    <name>AiXinMusic</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>1.8</java.version>
